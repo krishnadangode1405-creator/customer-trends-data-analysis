@@ -32,13 +32,13 @@ This project analyzes customer behavior and purchasing patterns to uncover meani
 
 ## 🗂️ Project Structure
 customer-trends-data-analysis/
-│
-├── data/ # Raw and cleaned datasets (CSV/Excel)
-├── sql/ # SQL queries used for analysis
-├── python/ # Python scripts / notebooks
-├── powerbi/ # Power BI dashboard (.pbix)
-├── screenshots/ # Dashboard & output screenshots
-├── README.md # Project documentation
+
+- data/ # Raw and cleaned datasets (CSV/Excel)
+- sql/ # SQL queries used for analysis
+- python/ # Python scripts / notebooks
+- powerbi/ # Power BI dashboard (.pbix)
+- screenshots/ # Dashboard & output screenshots
+- README.md # Project documentation
 
 ---
 
@@ -101,13 +101,13 @@ The Power BI dashboard provides:
 - Execute queries from the `sql/` folder
 
 ### 2️⃣ Python
-pip install pandas numpy matplotlib seaborn
-python analysis.py
+- pip install pandas numpy matplotlib seaborn
+- python analysis.py
 
 ---
 
 ### 👤 Author
 
-Krishna Dangode
-Aspiring Data Analyst / Data Scientist
+- Krishna Dangode
+- Aspiring Data Analyst / Data Scientist
 
