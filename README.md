@@ -16,4 +16,4 @@ using SQL, Python, and Power BI.
 - Visual dashboards in Power BI
 
 ## 👨‍🎓 Project Type
-Data Analytics Project (MCA)
+Data Analytics Project 
